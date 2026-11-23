@@ -1,0 +1,25 @@
+{
+  "_comment": "SYNTHETIC EXAMPLE. Outlet IDs and names below are made up. Copy to config.json (git-ignored) or pass as REPORT_CONFIG.",
+  "nightly_report": {
+    "brand_name": "Example Kitchen",
+    "outlets": {
+      "10001": "Outlet A",
+      "10002": "Outlet B",
+      "10003": "Outlet C"
+    }
+  },
+  "split_report": {
+    "brand_name": "Example Bistro",
+    "dine_in_label": "Dine-in Outlet",
+    "dine_in_outlet_id": "20001",
+    "cloud_kitchens": {
+      "20002": "Cloud Kitchen 1",
+      "20003": "Cloud Kitchen 2"
+    }
+  },
+  "hourly_pulse": {
+    "brand_name": "Example Kitchen",
+    "outlet_id": "10003",
+    "outlet_name": "Outlet C"
+  }
+}
